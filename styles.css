@@ -1,0 +1,12 @@
+body {
+    background-color: brown;
+}
+h1 {
+    color: burlywood;
+}
+.friends{
+    color: green
+}
+h3 .friends {
+    text-transform: capitalize;
+}
